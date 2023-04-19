@@ -6,12 +6,12 @@
 
 
 - 🔭 I’m Dong Han. A software engineer .
-- 👒 Read my blog : https://www.cnblogs.com/MrChuJiu/
 - 👀 Open source contributor
 - 👾 Developers .NET Core and Angular
 - 👑 ABP, eShopOnContainers
 - 🤝 Always open for cooperation
 - ❤️ Cats 😸, whales 🐳 and guitars 🎸
+- 👒 Read my blog : https://www.cnblogs.com/MrChuJiu/
 - 📕《ASP.NET Core 5.0 开发入门与实战》: https://item.jd.com/13593742.html
 - 📫 How to reach me: mrchujiu@outlook.com
 - 🎉 Most Valuable Professional: [![MVP](http://apk.neters.club/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_72ppi.png)](https://mvp.microsoft.com/en-us/PublicProfile/5004816?fullName=Dong%20Han) 
